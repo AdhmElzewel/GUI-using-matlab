@@ -2,7 +2,7 @@
 
 ![image](https://github.com/AdhmElzewel/GUI-using-matlab/assets/108629950/9f00d6a7-62f5-428c-a72b-1bee0b5d5ff4)
 
-
+### YOUTUBE video: https://youtube.com/shorts/FiDzK0IHT4w
 ## Introduction:-
  Projectile motion is the motion of an object in two dimensions. This 
 means that if an object moves in both the horizontal and vertical 
@@ -66,6 +66,8 @@ independent of each other; that is, neither motion affects the other. Since
 the gravitational force pulls downward, gravity will only affect the 
 vertical component of the velocity.
 ![image](https://github.com/AdhmElzewel/GUI-using-matlab/assets/108629950/617e3fd4-a165-453e-8a38-abd6eaeb1267)
+
+## FUNCTIONS
 
 ![image](https://github.com/AdhmElzewel/GUI-using-matlab/assets/108629950/1a1ea5fa-22f4-4690-9684-ac918b200852)
 
