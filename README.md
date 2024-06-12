@@ -2,18 +2,6 @@
 
 ![image](https://github.com/AdhmElzewel/GUI-using-matlab/assets/108629950/9f00d6a7-62f5-428c-a72b-1bee0b5d5ff4)
 
-GUI using matlab
-Table of Contents 
-Table Of Symbols .....................................................................1
-Introduction ..............................................................................2
-Graphical User Interface .........................................................3
-Theories...................................................................................10
-Functions.................................................................................11
-Coding Flow Chart………………………………………......13
-Coding .....................................................................................14
-Running the program………………………………………..20
-Summary programming process Flow Chart.......................21
-References………………………………………………………………………….22
 
 ## Introduction:-
  Projectile motion is the motion of an object in two dimensions. This 
